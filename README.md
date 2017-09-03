@@ -1,2 +1,2 @@
 # Tensorflow-Exercise
-这个练习主要是自己学习记录Tensoflow的过程。主要包括复现其他大咖的练习程序。
+该项目为一个Tensorflow练习的项目，主要是想通过一些实际的编程案例来熟悉对Tensorflow的认识，了解它的一些基本原理。
